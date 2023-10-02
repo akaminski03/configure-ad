@@ -28,7 +28,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://github.com/akaminski03/configure-ad/assets/65532146/34410dca-e927-4fcb-a508-62b880ca3283" height="80%" width="80%" alt="Ping"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/97fdfb3f-dbe7-4858-9cf7-92436ffeba2e" height="80%" width="80%" alt="Ping"/>
 </p>
 <p>
 Ping the domain controller from the user
