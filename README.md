@@ -51,7 +51,7 @@ From the domain controller, open Windows Defender Firewall with Advanced Securit
 The user should now be getting replies from their pings. If not, the virtual machines are likely not on the same network.
 </p>
 <br />
-![image](https://github.com/akaminski03/configure-ad/assets/65532146/21c59a0a-f65b-465f-a414-3ec3aad0f2ca)
+
 <p>
 <img src="https://github.com/akaminski03/configure-ad/assets/65532146/21c59a0a-f65b-465f-a414-3ec3aad0f2ca" height="80%" width="80%" alt="Domain Services"/>
 </p>
