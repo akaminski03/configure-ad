@@ -59,3 +59,10 @@ The user should now be getting replies from their pings. If not, the virtual mac
 From the Domain Controller, open Server Manager, click Add roles and Features, and enable Active Directory Domain Services.
 <br />
 
+<p>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/6ba836f1-f652-4ea7-979b-09dd842c35a3" height="80%" width="80%" alt="forest"/>
+</p>
+<p>
+From the Domain Controller, open Server Manager, click on the flag in the top right, click on "Promote this server to an active directory," make sure in the first step that you select "Add a new forest," and proceed with installation.
+<br />
+
