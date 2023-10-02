@@ -67,10 +67,18 @@ From the Domain Controller, open Server Manager, click on the flag in the top ri
 <br />
   
 <p>
-<img src="https://github.com/akaminski03/configure-ad/assets/65532146/40643d1a-c64c-4229-9812-d067dbe87681" height="80%" width="80%" alt="forest"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/40643d1a-c64c-4229-9812-d067dbe87681" height="80%" width="80%" alt="restart"/>
 </p>
 <p>
 The domain controller will reset. When logging back in, login with the context of the domain.
 <br />
+
+<p>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/7a3c889c-fd59-4ebb-8063-a40fd82f2bc2" height="80%" width="80%" alt="active directory"/>
+</p>
+<p>
+You can now have access to active directory!
+<br />
+
 
 
