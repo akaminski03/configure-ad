@@ -65,9 +65,9 @@ From the Domain Controller, open Server Manager, click Add roles and Features, a
 <p>
 From the Domain Controller, open Server Manager, click on the flag in the top right, click on "Promote this server to an active directory," make sure in the first step that you select "Add a new forest," and proceed with installation.
 <br />
-
+  
 <p>
-<img src="https://github.com/akaminski03/configure-ad/assets/65532146/109bb1d9-d940-43ae-8225-fde3c61e78f3" height="80%" width="80%" alt="forest"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/40643d1a-c64c-4229-9812-d067dbe87681" height="80%" width="80%" alt="forest"/>
 </p>
 <p>
 The domain controller will reset. When logging back in, login with the context of the domain.
