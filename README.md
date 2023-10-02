@@ -45,9 +45,9 @@ From the domain controller, open Windows Defender Firewall with Advanced Securit
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/7e21c6a3-0d83-4dd1-aea8-aa34cf38b855" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The user should now be getting replies from their pings. If not, the virtual machines are likely not on the same network.
 </p>
 <br />
