@@ -19,10 +19,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>List of Prerequisites</h2>
 
--Have an active Microsoft Azure subscription
--Create a Windows 10 Virtual Machine, and a Windows server Virtual Machine on Azure
--Set the network interface controller's private IP address to be static
--Remote desktop connect to both virtual machines that you created
+- Have an active Microsoft Azure subscription
+- Create a Windows 10 Virtual Machine, and a Windows server Virtual Machine on Azure
+- Set the network interface controller's private IP address to be static
+- Remote desktop connect to both virtual machines that you created
 
 
 <h2>Deployment and Configuration Steps</h2>
