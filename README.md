@@ -20,7 +20,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>List of Prerequisites</h2>
 
 - Have an active Microsoft Azure subscription
-- Create a Windows 10 Virtual Machine, and a Windows server Virtual Machine on Azure
+- Create a Windows 10 Virtual Machine (the user), and a Windows server Virtual Machine (the domain controller) on Azure
 - Set the domain controller's NIC private IP address to be static
 - Remote desktop connect to both virtual machines that you created
 
@@ -28,10 +28,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/34410dca-e927-4fcb-a508-62b880ca3283" height="80%" width="80%" alt="Ping"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Ping the domain controller from the user
 </p>
 <br />
 
