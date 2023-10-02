@@ -31,15 +31,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/akaminski03/configure-ad/assets/65532146/97fdfb3f-dbe7-4858-9cf7-92436ffeba2e" height="80%" width="80%" alt="Ping"/>
 </p>
 <p>
-Ping the domain controller from the user
+From the user, perpetually ping the domain controller using ping -t.
 </p>
 <br />
 
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/akaminski03/configure-ad/assets/65532146/fc444cf4-026d-48e8-9d3b-e994ef59b4d7"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the domain controller, open Windows Defender Firewall with Advanced Security, select Inbound Rules, sort by protocol, and enable both "Core Networking Diagnositcs - ICMP Echo Request (ICMPv4-In)" rules.
 </p>
 <br />
 
